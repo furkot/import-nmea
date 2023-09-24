@@ -1,0 +1,28 @@
+{
+  "name": "@furkot/import-nmea",
+  "version": "0.0.0",
+  "description": "Import NMEA files into Furkot.",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
+  },
+  "repository": "furkot/import-nmea",
+  "license": "MIT",
+  "keywords": [
+    "import-nmea",
+    "nmea",
+    "furkot"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "@pirxpilot/jshint": "^3.0.1"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
