@@ -14,7 +14,9 @@
     "nmea",
     "furkot"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "nmea-simple": "^3.3.0"
+  },
   "devDependencies": {
     "@pirxpilot/jshint": "^3.0.1"
   },
