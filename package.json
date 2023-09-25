@@ -1,6 +1,6 @@
 {
   "name": "@furkot/import-nmea",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Import NMEA files into Furkot.",
   "author": {
     "name": "Damian Krzeminski",
